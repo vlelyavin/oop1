@@ -1,4 +1,4 @@
-# This is OOP project
+# This is OOP project for my university
 
 > The example of markdown
 
